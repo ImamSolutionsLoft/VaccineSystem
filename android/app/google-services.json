@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "354926055557",
+    "project_id": "vaccinesystem-a1f31",
+    "storage_bucket": "vaccinesystem-a1f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354926055557:android:0bcdbfd66745a470fb19ec",
+        "android_client_info": {
+          "package_name": "com.vaccinesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354926055557-k1lrikvk9fljhlmq61rpb7ndnogb6e3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaccinesystem",
+            "certificate_hash": "6e09401587d5724968f1f825ddcc3286cd7919a5"
+          }
+        },
+        {
+          "client_id": "354926055557-o5otoq25a2fl5tcj0cqpuk0camg7n88p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtFTduu76flWOVeMfRdOixKqPKcHSVeH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354926055557-o5otoq25a2fl5tcj0cqpuk0camg7n88p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
